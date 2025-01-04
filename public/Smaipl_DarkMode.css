@@ -95,7 +95,7 @@ a, a:link, a:hover, a:visited {
 }
 
 .alert-danger {
-    background: #f74d4d;
+    background: #e1007a;
     border: 0px;
     color: #fff;
 }
@@ -105,7 +105,7 @@ a, a:link, a:hover, a:visited {
 }
 
 .btn-success {
-    background: #1abc9c;
+    background: #0B8189;
     margin: 10px 0;
     padding: 8px 10px;
     color: #fff;
@@ -113,7 +113,7 @@ a, a:link, a:hover, a:visited {
     border: 0px;
 }
 .btn-success {
-    background: #00E1CF;
+    background: #0B8189;
 }
 
 .btn-primary, .btn-primary:focus {
@@ -206,4 +206,8 @@ tbody, th, tr, td {
 
 .bg-primary {
     background-color:#0B8189 !important;
+}
+
+.bg-secondary {
+    background: #0B8189!important;
 }

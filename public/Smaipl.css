@@ -91,6 +91,18 @@ a.sidebar-link.waves-effect.waves-dark.sidebar-link.active {
     color: white;
 }
 
+.btn-success:hover {
+    background-color:#e1007a;
+}
+
 .bg-primary {
     background-color:#00E1CF !important;
+}
+
+.btn-danger.disabled, .btn-danger:disabled {
+    background-color:#e1007a !important;
+}
+
+.bg-secondary {
+    background: #0B8189!important;
 }

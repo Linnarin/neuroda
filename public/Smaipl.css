@@ -51,6 +51,13 @@ a.sidebar-link.waves-effect.waves-dark.sidebar-link.active {
     color: #000;
 }
 
+.btn-warning:hover {
+    background-color:#e1007a;
+    border-color: #e1007a;
+    border-radius: 4px;
+    color: #fff;
+}
+
 .btn-primary {
     background-color:#fff;
     border-color: #00E1CF;

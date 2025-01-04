@@ -101,7 +101,7 @@ a, a:link, a:hover, a:visited {
 }
 
 .bg-danger {
-    background: #e1007a;
+    background: #e1007a !important;
 }
 
 .btn-success {
@@ -126,7 +126,6 @@ a, a:link, a:hover, a:visited {
 }
 .btn-primary:hover {
     background: #e1007a;
-    border: 1px solid #e1007a;
 }
 
 .btn-warning {

@@ -1,0 +1,79 @@
+#main-wrapper .left-sidebar[data-sidebarbg=skin5], #main-wrapper .left-sidebar[data-sidebarbg=skin5] ul {
+    background: #fff;
+}
+
+#main-wrapper .topbar .navbar-collapse[data-navbarbg=skin5], #main-wrapper .topbar[data-navbarbg=skin5] {
+    background: #fff;
+}
+
+#navbarSupportedContent {
+    background: #fff!important;
+}
+
+#main-wrapper .topbar .top-navbar .navbar-header[data-logobg=skin5] {
+    background: #fff;
+}
+
+.left-sidebar {
+    background: #fff;
+}
+
+.text-white {
+    color: #3e5569 !important;
+}
+
+.navbar-nav .nav-link {
+  color: rgb(161,170,178) !important;
+}
+
+.sidebar-nav ul .sidebar-item .sidebar-link {
+    color: rgb(161,170,178);
+}
+
+.sidebar-nav ul .sidebar-item .sidebar-link i {
+    color: rgb(161,170,178);
+}
+
+.sidebar-nav ul .sidebar-item.selected>.sidebar-link {
+    color: white;
+    background: #0B8189;
+    opacity: 1;
+}
+
+a.sidebar-link.waves-effect.waves-dark.sidebar-link.active {
+    color: white;
+}
+
+.btn-warning {
+    background-color:#fff;
+    border-color: #00E1CF;
+    border-radius: 4px;
+    color: #000;
+}
+
+.btn-primary {
+    background-color:#fff;
+    border-color: #00E1CF;
+    border-radius: 4px;
+    color: #000;
+}
+
+.btn-danger {
+    background-color:#00E1CF;
+    border-color: #00E1CF;
+    border-radius: 4px;
+}
+
+.bg-danger {
+    background-color:#e1007a !important;
+}
+
+.fillout-div-plus-btn button {
+    background: #0B8189!important;
+}
+
+.btn-success {
+    background-color: #747474;
+    border-color: #747474;
+    color: white;
+}

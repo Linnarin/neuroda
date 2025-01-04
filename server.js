@@ -3,10 +3,11 @@ const path = require('path');
 
 const app = express();
 
+// Указываем Express обслуживать статические файлы из папки "public"
 app.use('/static', express.static(path.join(__dirname, 'public')));
 
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
-    console.log(`Сервер отдает по статике доступ к файлам стилей`);
+    console.log(`Server is running on http://localhost:${PORT}`);
 });

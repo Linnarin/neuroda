@@ -79,6 +79,7 @@ a.sidebar-link.waves-effect.waves-dark.sidebar-link.active {
 
 .bg-danger {
     background-color:#e1007a !important;
+    border-color: #e1007a;
 }
 
 .fillout-div-plus-btn button {
@@ -93,6 +94,7 @@ a.sidebar-link.waves-effect.waves-dark.sidebar-link.active {
 
 .btn-success:hover {
     background-color:#e1007a;
+    border-color: #e1007a;
 }
 
 .bg-primary {
@@ -101,6 +103,7 @@ a.sidebar-link.waves-effect.waves-dark.sidebar-link.active {
 
 .btn-danger.disabled, .btn-danger:disabled {
     background-color:#e1007a !important;
+    border-color: #e1007a;
 }
 
 .bg-secondary {

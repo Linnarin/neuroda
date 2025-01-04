@@ -61,7 +61,7 @@ a, a:link, a:hover, a:visited {
 }
 
 .form-select, .form-control, input, textarea, checkbox, select, option, button {
-    background: #00E1CF;
+    background: #424E5A;
     border: 1px solid #7cf4db;
     color: #DDE1E5;
 }
@@ -202,4 +202,8 @@ tbody, th, tr, td {
     background: url('/download/token_black.svg');
     display: inline-block;
     background-size: cover;
+}
+
+.bg-primary {
+    background-color:#0B8189 !important;
 }

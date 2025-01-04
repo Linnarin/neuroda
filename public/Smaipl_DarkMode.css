@@ -125,7 +125,8 @@ a, a:link, a:hover, a:visited {
     border: 0px;
 }
 .btn-primary:hover {
-    background: #0c828a;
+    background: #e1007a;
+    border: 1px solid #e1007a;
 }
 
 .btn-warning {
@@ -137,8 +138,8 @@ a, a:link, a:hover, a:visited {
     border: 1px solid #0c828a;
 }
 .btn-warning:hover {
-    background: #034a4f;
-    border: 1px solid #00E1CF;
+    background: #e1007a;
+    border: 1px solid #e1007a;
 }
 
 .btn-danger {
@@ -149,8 +150,9 @@ a, a:link, a:hover, a:visited {
     border-radius: 4px;
     border: 0px;
 }
-.btn-danger {
-    background: #0B8189;
+.btn-danger:hover {
+    background: #e1007a;
+    border: 1px solid #e1007a;
 }
 
 .fillout-div-plus-btn button {

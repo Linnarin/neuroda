@@ -64,6 +64,16 @@ a.sidebar-link.waves-effect.waves-dark.sidebar-link.active {
     border-radius: 4px;
 }
 
+.btn-primary:hover {
+    background-color:#e1007a;
+    border-color: #e1007a;
+}
+
+.btn-danger:hover {
+    background-color:#e1007a;
+    border-color: #e1007a;
+}
+
 .bg-danger {
     background-color:#e1007a !important;
 }

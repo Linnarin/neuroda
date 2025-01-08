@@ -160,7 +160,7 @@ a, a:link, a:hover, a:visited {
 }
 
 .dropdown-menu {
-    background-color: #00E1CF;
+    background-color: #313941;
     border: 1px solid #7cf4db;
 }
 
@@ -212,3 +212,9 @@ tbody, th, tr, td {
 .bg-secondary {
     background: #0B8189!important;
 }
+
+.generate_button {
+    background-color:#0B8189 !important;
+    border-radius: 5px;
+}
+

@@ -206,7 +206,7 @@ tbody, th, tr, td {
 }
 
 .bg-primary {
-    background-color:#0B8189 !important;
+    background-color: #0B8189 !important;
 }
 
 .bg-secondary {
@@ -214,12 +214,11 @@ tbody, th, tr, td {
 }
 
 .generate_button {
-    background-color:#0B8189 !important;
+    background-color: #0B8189 !important;
     border-radius: 5px;
 }
 
 .el-element-overlay .el-card-item .el-overlay-1 .el-info .el-item .el-link:hover {
-    background-color:#0B8189 !important;
+    background-color: #0B8189 !important;
     border: 1px solid #0B8189;
 }
-

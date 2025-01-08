@@ -98,11 +98,11 @@ a.sidebar-link.waves-effect.waves-dark.sidebar-link.active {
 }
 
 .bg-primary {
-    background-color:#00E1CF !important;
+    background-color: #00E1CF !important;
 }
 
 .btn-danger.disabled, .btn-danger:disabled {
-    background-color:#e1007a !important;
+    background-color: #e1007a !important;
     border-color: #e1007a;
 }
 
@@ -111,11 +111,11 @@ a.sidebar-link.waves-effect.waves-dark.sidebar-link.active {
 }
 
 .generate_button {
-    background-color:#0B8189 !important;
+    background-color: #0B8189 !important;
     border-radius: 5px;
 }
 
 .el-element-overlay .el-card-item .el-overlay-1 .el-info .el-item .el-link:hover {
-    background-color:#0B8189 !important;
+    background-color: #0B8189 !important;
     border: 1px solid #0B8189;
 }

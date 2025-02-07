@@ -219,6 +219,7 @@ tbody, th, tr, td {
 }
 
 .el-element-overlay .el-card-item .el-overlay-1 .el-info .el-item .el-link:hover {
-    background-color: #0B8189 !important;
-    border: 1px solid #0B8189;
+    background-color: #00E1CF !important;
+    border: 1px solid #00E1CF;
+    color: black;
 }

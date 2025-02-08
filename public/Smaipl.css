@@ -122,8 +122,12 @@ a.sidebar-link.waves-effect.waves-dark.sidebar-link.active {
     color: black;
 }
 
-.text-white {
+/* .text-white {
     color: rgb(161,170,178) !important;
+} */
+
+.sidebar-nav ul .sidebar-item .sidebar-link {
+    color: rgb(161, 170, 178);
 }
 
 .sidebar-nav>#sidebarnav>.sidebar-item>.sidebar-link:hover {

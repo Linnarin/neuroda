@@ -133,3 +133,7 @@ a.sidebar-link.waves-effect.waves-dark.sidebar-link.active {
 .sidebar-nav>#sidebarnav>.sidebar-item>.sidebar-link:hover {
     background-color: #0B8189;
 }
+
+.nav-link {
+    color: (161,170,178) !important;
+}
